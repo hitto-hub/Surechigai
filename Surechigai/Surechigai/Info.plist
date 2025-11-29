@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNearbyInteractionUsageDescription</key>
+	<string>近くにいる人との距離と方向を測定するために必要です</string>
+	<key>NSNearbyInteractionAllowOnceUsageDescription</key>
+	<string>近くにいる人との距離と方向を測定するために必要です</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>近くのデバイスを検出するために必要です</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>近くのデバイスと通信するために必要です</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>近くのデバイスと接続するために必要です</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_surechigai-uwb._tcp</string>
+		<string>_surechigai-uwb._udp</string>
+	</array>
+</dict>
+</plist>
