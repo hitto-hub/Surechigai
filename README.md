@@ -1,3 +1,6 @@
+
+[WIP]
+
 # Surechigai - すれ違い検出アプリ
 
 iPhone同士のUWB（Ultra Wideband）を使って、ピアの方向・距離表示とすれ違い検出を行うアプリです。
